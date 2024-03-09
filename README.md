@@ -1,0 +1,2 @@
+# teaj
+protocol testnet tea
